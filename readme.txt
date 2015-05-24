@@ -16,7 +16,7 @@ A super easy to use plugin that will provide your Woocommerce site with shipping
 = Key Features =
 * Unlimited countries
 * Super easy to use - very intuiative
-* Rates are set by total cart price (by weight coming soon)
+* Set rates either by total cart price or by weight
 * Add additional handling fees
 
 
@@ -35,10 +35,10 @@ A super easy to use plugin that will provide your Woocommerce site with shipping
 Simply use the '*' (asterisk) in the 'Max' field and the plugin will interpret that as infinite.
 
 = What if I want some changes? =
-[Contact us here[(http://http://www.jem-products.com/support.html) and let us know what you need!
+[Contact us here[(http://www.jem-products.com/support.html) and let us know what you need!
 
 = What if I need some help? =
-[Contact us here[(http://http://www.jem-products.com/support.html) we are always happy to help!
+[Contact us here[(http://www.jem-products.com/support.html) we are always happy to help!
 
 = How do I keep up to date? =
 Sign up and we will keep you fully up to date with whats happening with this plugin [click here](http://jem-products.com/signup.html)
