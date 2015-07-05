@@ -3,8 +3,8 @@
 Plugin Name: Woocommerce Table Rate Shipping 
 Plugin URI: http://www.jem-products.com/plugins.html
 Description: Provides shipping for Woocommerce based upon a table of rates. Unlimited countries. 
-Version: 1.0.0
-Author: Simon Emmett
+Version: 1.0.1
+Author: JEM Plugins
 Author URI: http://www.jem-products.com
 */
  
@@ -122,13 +122,35 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 				*/
 				function admin_options() {
 				?>
-					<div class="updated woocommerce-message">
-						<p><strong>
-							Get notified of important updates
-						</strong></p>
-						<p>Keep up to date with the latest versions of this plugin.</p>
-						<p class="submit"><a href="http://www.jem-products.com/?source=wordpress&utm_medium=jemtr_plugin_settings" target="_blank" class="button-primary debug-report">Get important updates&nbsp;</a></p>
-					</div>				
+<style type="text/css">
+
+#af-form-1907640370 .af-element { float: left; }
+#af-form-1907640370 .af-clear { display:none; }
+#af-form-1907640370 .af-body input.text { width: 150px!important; margin-right:15px!important; }
+#af-form-1907640370 .af-body  { padding-top: 1px!important; padding-bottom: 1px!important;  }
+#af-form-1907640370 .buttonContainer { margin-top:-6px!important; }
+.af-form { margin: inherit !important; } 				
+				
+</style>				
+						
+<div class="AW-Form-1907640370"></div>
+<script type="text/javascript">(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//forms.aweber.com/form/70/1907640370.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, "script", "aweber-wjs-154zq9niv"));
+</script>			
+						
+						
+						
+						
+						
+						
+						
+						
+						
 					<style>
 						
 						.jem-zone-row{
