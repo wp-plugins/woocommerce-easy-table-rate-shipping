@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce Table Rate Shipping 
 Plugin URI: http://www.jem-products.com/plugins.html
 Description: Provides shipping for Woocommerce based upon a table of rates. Unlimited countries. 
-Version: 1.0.1
+Version: 1.1.0
 Author: JEM Plugins
 Author URI: http://www.jem-products.com
 */
@@ -765,7 +765,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 					if ($this->settings['tax_status'] == 'notax') {
 						$taxes = false;
 					} else {
-						$taxes = true;
+						$taxes = '';
 					}
 					
 					//test just to get a value out there....

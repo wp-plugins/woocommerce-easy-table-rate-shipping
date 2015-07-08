@@ -60,6 +60,10 @@ Sign up and we will keep you fully up to date with whats happening with this plu
 
 
 == Changelog ==
+
+= 1.1.0 =
+Updated tax to match Woocommerce
+
 = 1.0.1 =
 Minor upgrades to UI - correcting some URL's
 
